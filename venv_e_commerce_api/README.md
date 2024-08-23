@@ -20,7 +20,7 @@ Users can interact with the API by sending requests via Postman. Requests have a
 Screenshots from the program show examples of its functionalities when used with Postman:
 
 - Creating customer "John Doe":
-![Creating customer "John Doe"]("C:\Users\jayco\OneDrive\Pictures\2024\screenshot1.png")
+![Creating customer "John Doe"]("screenshot1.png")
 
 ### User Interactions
 
